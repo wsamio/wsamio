@@ -7,3 +7,5 @@
 ## Hello, I am Misbah.
 
 **Check out my [Daily Progress Sheet](https://github.com/wsamio/Progress-Sheet)**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wsamio&label=Profile%20views&color=0e75b6&style=flat" alt="wsamio" /> </p>

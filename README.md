@@ -10,9 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wsamio&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="wsamio" /> </p>
 
-<video width="320" height="240" controls>
-  <source src="Added/01.mp4" type="video/mp4">
-</video>
 
-[![Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=ZzeDtSmrRoU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZzeDtSmrRoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

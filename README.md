@@ -9,3 +9,7 @@
 **Check out my [Daily Progress Sheet](https://github.com/wsamio/Progress-Sheet)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wsamio&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="wsamio" /> </p>
+
+<video width="320" height="240" controls>
+  <source src="Added/01.mp4" type="video/mp4">
+</video>

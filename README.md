@@ -11,5 +11,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wsamio&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="wsamio" /> </p>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZzeDtSmrRoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZzeDtSmrRoU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
